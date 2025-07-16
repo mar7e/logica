@@ -1,0 +1,33 @@
+.carousel-inner img {
+    width: 100%;
+    height: auto;
+    max-height: 600px; /* ajuste a altura maxima conforme necessario */
+    object-fit: cover; /* ajuste a imagem para cobrir o espaço */
+    .carousel {
+    max-width: 800px;
+    margin: auto;
+    }
+    
+    .carosel {
+    max-width: 800px; /* ajuste a largura maxima conforma necessario */
+    margin: auto; /* centralizar o carosel */
+    }
+    
+    .carosel-caption {
+    background-color: rgba(0, 0, 0, 0.5); /* fundo semi-transparente */
+    padding: 10px;
+    }
+    .spacer {
+    margin-top: 30px; /* espaço adicional entre o carosel e o formulario */
+    }
+    .titulo {
+    display: block;
+    margin-bottom: 10px;
+    }
+    .contato {
+    padding: 20px;
+    }
+    .carosel-control-prev-icon,
+    .carosel-control-next-icon {
+    background-color: black;
+    
