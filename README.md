@@ -1,2 +1,2 @@
 # front-end
-arquivos para atividades de logica
+conteudo da aula de front-end
